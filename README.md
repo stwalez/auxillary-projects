@@ -7,6 +7,6 @@
 ---
 ![onboarding_users.gif](onboarding_users_demo.gif "onboarding_users_demo")
 
-
+Note
 ---
 Ensure names.csv and shell scripts are formatted in **LF** line breaks.

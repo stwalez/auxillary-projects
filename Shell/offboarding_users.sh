@@ -1,5 +1,5 @@
 #!/bin/bash
-# Onboarding user script.
+# Offboarding user script.
 # 
 # Copyright (c) 2022 Olawale Abiola
 #
